@@ -6,7 +6,7 @@ from geopy.distance import geodesic
 app = Flask(__name__)
 
 # Your Google Maps API key
-API_KEY = 'AIzaSyCajSz9hfSCKEnVlO7ccWTtvVLnDJ5uVf4'
+API_KEY = ''
 
 # Updated list of ambulance locations including towards Bengaluru Airport
 ambulance_locations = [
